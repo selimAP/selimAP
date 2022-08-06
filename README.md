@@ -10,7 +10,7 @@
 
 - 🌱 **I am currently learning Javascript.**
 
-- 👨‍💻 **i try to upload all my projects to github because i don't have a portfolio yet**
+- 👨‍💻 **I try to upload all my projects to github because i don't have a portfolio yet**
 
 <!-- - 📫 How to reach me **subham.raoniar@gmail.com** -->
 
