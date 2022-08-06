@@ -6,11 +6,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I am currently working on various projects to expand my skills**
+- 🔭 **I am currently working on various projects to expand my skills**
 
-- 🌱 I am currently learning Javascript.**
+- 🌱 **I am currently learning Javascript.**
 
-- 👨‍💻 i try to upload all my projects to github because i don't have a portfolio yet**
+- 👨‍💻 **i try to upload all my projects to github because i don't have a portfolio yet**
 
 <!-- - 📫 How to reach me **subham.raoniar@gmail.com** -->
 
