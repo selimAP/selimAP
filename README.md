@@ -61,4 +61,4 @@
 
 </p>
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/selimAP/selimAP/blob/output/github-contribution-grid-snake.svg)
