@@ -10,7 +10,7 @@
 
 - 🌱 **I'm learning JavaScript in my leisure, at school i learn C# and at work i learn and use Powershell**
 
-- 👨‍💻 **I try to upload all my projects to <a href="https://github.com/selimAP">github</a> because i don't have a portfolio yet**
+- 👨‍💻 **I try to upload all my projects to github because i don't have a portfolio yet**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
