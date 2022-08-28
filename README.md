@@ -55,7 +55,7 @@
 ## Socials:
 <p align="left">
 
-<!-- <a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> -->
+<!-- <a href = ""><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> -->
 <a href = "https://twitter.com/iiiSel1m"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/selim.ssa/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
