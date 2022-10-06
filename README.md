@@ -63,3 +63,7 @@
 
 
   ![Snake animation](https://github.com/selimAP/selimAP/blob/output/github-contribution-grid-snake.svg)
+  
+  ## Profile Visit-Counter:
+
+![](https://komarev.com/ghpvc/?username=selimAPCGN&style=for-the-badge)
