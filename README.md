@@ -61,7 +61,7 @@
 
 </p>
 
-
+## Contributions
   ![Snake animation](https://github.com/selimAP/selimAP/blob/output/github-contribution-grid-snake.svg)
   
   ##
