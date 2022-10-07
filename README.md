@@ -54,10 +54,11 @@
 
 ## Socials:
 <p align="left">
+<a href="https://www.github.com/selimAP" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 
-<!-- <a href = ""><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> -->
-<a href = "https://twitter.com/iiiSel1m"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/selim.ssa/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href="http://www.instagram.com/selim.ssa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+
+<a href="https://www.twitter.com/trunarla" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 
 </p>
 
@@ -67,3 +68,5 @@
   ##
 
 ![](https://komarev.com/ghpvc/?username=selimAPCGN&style=for-the-badge)
+<a href="https://www.github.com/selimAP" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/selimAP?logo=github&style=for-the-badge" /></a>
