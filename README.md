@@ -23,7 +23,7 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
    <!-- <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> -->
    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="48"/> </a> <a height="48"/> </a>
-       <a href="https://docs.microsoft.com/de-de/powershell/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_powershell_icon_130243.png" width="45" height="48"/> </a>
+   <!-- <a href="https://docs.microsoft.com/de-de/powershell/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_powershell_icon_130243.png" width="45" height="48"/> </a> -->
 
 
 
