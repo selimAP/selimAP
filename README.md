@@ -8,7 +8,7 @@
 
 - 🔭 **I am currently working on various projects to expand my skills**
 
-- 🌱 **I'm learning JavaScript in my leisure, at school i learn C# and at work i learn and use Powershell**
+- 🌱 **I'm learning JavaScript in my leisure, at school i learn C# and at work i learn and use bit Powershell**
 
 - 👨‍💻 **I try to upload all my projects to github because i don't have a portfolio yet**
 
