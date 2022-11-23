@@ -61,13 +61,13 @@
 
 <a href="https://www.twitter.com/sel1mAP" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 
+![](https://komarev.com/ghpvc/?username=selimAPCGN&style=for-the-badge)
+<a href="https://www.github.com/selimAP" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/selimAP?logo=github&style=for-the-badge" /></a>
+    
+
 </p>
 
 ## Contributions
   ![Snake animation](https://github.com/selimAP/selimAP/blob/output/github-contribution-grid-snake.svg)
   
-  ##
-
-![](https://komarev.com/ghpvc/?username=selimAPCGN&style=for-the-badge)
-<a href="https://www.github.com/selimAP" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/selimAP?logo=github&style=for-the-badge" /></a>
