@@ -8,11 +8,9 @@
 
 - 🔭 **I am currently working on various projects to expand my skills**
 
-- 🌱 **I'm learning <a href="https://www.javascript.com/">JavaScript</a>  and <a href="https://tailwindcss.com/">Tailwindcss</a> in my leisure, at school i learn <a href="https://www.w3schools.com/cs/index.php">C#</a> and at work i learn and use bit Powershell**
+- 🌱 **I'm learning <a href="https://www.javascript.com/">JavaScript</a> in my leisure, at school i learn <a href="https://www.w3schools.com/cs/index.php">C#</a>**
 
-- 👨‍💻 **I try to upload all my projects to github because i don't have a portfolio yet**
-
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I go to the GYM very often.**
 
 
 ## 🚀 Skills:
