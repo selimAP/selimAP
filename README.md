@@ -15,4 +15,4 @@
 
 
 ### Contributions
-![snake gif](https://github.com/selimAP/selimAP/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/selimAP/selimAP/blob/output/github-contribution-grid-snake.svg)
