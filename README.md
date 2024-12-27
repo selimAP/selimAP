@@ -9,10 +9,10 @@
   <a href="https://github.com/selimAP/github-readme-stats"><img alt="selim's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selimAP&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
-
+##
 #### Visitors (Since 2024/11/24)
 ![](https://count.getloli.com/get/@selimAP?theme=gelbooru)
 
-
-### Contributions
-![snake gif](https://github.com/selimAP/selimAP/blob/output/github-contribution-grid-snake.svg)
+##
+#### Contributions
+![Snake animation](https://raw.githubusercontent.com/selimAP/selimAP/output/snake.svg)
