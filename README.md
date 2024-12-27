@@ -12,3 +12,7 @@
 
 #### Visitors (Since 2024/11/24)
 ![](https://count.getloli.com/get/@selimAP?theme=gelbooru)
+
+
+### Contributions
+![snake gif](https://github.com/selimAP/selimAP/blob/output/github-contribution-grid-snake.gif)
