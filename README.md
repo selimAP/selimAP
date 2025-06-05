@@ -10,9 +10,5 @@
   <br/>
 
 ##
-#### Visitors (Since 2024/11/24)
-![](https://count.getloli.com/get/@selimAP?theme=gelbooru)
-
-##
 #### Contributions
 ![Snake animation](https://raw.githubusercontent.com/selimAP/selimAP/output/snake.svg)
